@@ -19,5 +19,8 @@
             "jnpdev\\Password\\": "src/"
         }
     },
-    "license": "MIT",
+    "require": {
+        "php": "^7.0"
+    },
+    "license": "MIT"
 }
