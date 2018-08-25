@@ -1,0 +1,23 @@
+{
+    "name": "jnpdev/password",
+    "description": "Password Interface",
+    "version": "dev-master",
+    "type": "package",
+    "source": {
+        "type":"git",
+        "url":"https://github.com/jnpdev/password",
+        "reference": "master"
+    },
+    "authors": [
+        {
+            "name": "Jaume Nicolau Prohens",
+            "email": "jaume.nicolau.prohens@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "jnpdev\\Password\\": "src/"
+        }
+    },
+    "license": "MIT",
+}
