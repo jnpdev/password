@@ -1,6 +1,6 @@
 <?php
 
-namespace Jnicolau\Password;
+namespace jnpdev\Password;
 
 interface PasswordInterface
 {
